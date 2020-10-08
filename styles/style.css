@@ -23,7 +23,7 @@
   width: 183px;
 }
 
-.logo__place-header {
+.logo_place_header {
   height: 32px;
   position: absolute;
   top: 30px;
@@ -245,12 +245,12 @@
   color: white;
 }
 
-.section-title__theme-dark {
+.section-title_theme_dark {
   margin: 0;
   color: white;
 }
 
-.section-subtitle__theme-dark {
+.section-subtitle_theme_dark {
   color: white;
 }
 
